@@ -4,9 +4,8 @@
 > Flask REST API for obtaining Pokémon data from Bulbapedia.
 
 # Features
-- obtaining all Pokémon data
-- obtaining Pokémon data by id
-- obtaining Pokémon data by name
+- obtaining Pokémon data (all, by id, by name)
+- obtaining Pokémon generation data (all, by generation number) 
 
 # Usage
 Poke-API requires Python3 to be installed.
